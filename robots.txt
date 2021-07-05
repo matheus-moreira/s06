@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bateriasriosuldeniteroi.com.br/sitemap.xml
